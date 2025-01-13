@@ -2,8 +2,7 @@
 .venv/
 venv/
 
-# Игнорировать базу данных SQLite
-*.sqlite3
+
 
 # Игнорировать кэш PyCharm
 .idea/
